@@ -10,3 +10,4 @@ Currently, the following activities are present:
 1. Open a Serial Communication with the Arduino board using the Serial Monitor integrated in the Arduino IDE and with Python (Python 3)
 2. Aquisition of an electric voltage. This is done using the applivation of a voltage divider.
 3. Measurement of an equivalent resistance
+4. Thévenin's theorem: computation and experimental validation
