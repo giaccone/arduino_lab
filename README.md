@@ -15,3 +15,4 @@ Currently, the following activities are present:
 2. Aquisition of an electric voltage. This is done using the application of a voltage divider. `-->` [link](https://youtu.be/61yXr3oFXwI)
 3. Measurement of an equivalent resistance. `-->` [link](https://youtu.be/He_-ysi0Rd0)
 4. Thévenin's theorem: computation and experimental validation. `-->` [link](https://youtu.be/x--Q7AAMXXM)
+5. Superposition principle: computation and experimental validation. `-->` [link](https://youtu.be/mZ2KitvKJQE)
