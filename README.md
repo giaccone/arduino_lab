@@ -16,3 +16,4 @@ Currently, the following activities are present:
 3. Measurement of an equivalent resistance. `-->` [link](https://youtu.be/He_-ysi0Rd0)
 4. Thévenin's theorem: computation and experimental validation. `-->` [link](https://youtu.be/x--Q7AAMXXM)
 5. Superposition principle: computation and experimental validation. `-->` [link](https://youtu.be/mZ2KitvKJQE)
+6. Maximum power transfer: experimental validation. `-->` [link](https://youtu.be/tsB7v60DxDg)
