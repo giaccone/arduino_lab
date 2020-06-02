@@ -17,3 +17,4 @@ Currently, the following activities are present:
 4. Thévenin's theorem: computation and experimental validation. `-->` [link](https://youtu.be/x--Q7AAMXXM)
 5. Superposition principle: computation and experimental validation. `-->` [link](https://youtu.be/mZ2KitvKJQE)
 6. Maximum power transfer: experimental validation. `-->` [link](https://youtu.be/tsB7v60DxDg)
+7. Circuits in time domain: the RC circuit. `-->` [link](https://youtu.be/GHyFt1-9hes)
