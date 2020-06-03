@@ -1,4 +1,4 @@
-// initializazione
+// initialization
 float initial_condition;
 unsigned long t0;
 
