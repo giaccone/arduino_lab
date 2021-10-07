@@ -11,7 +11,7 @@ To lower distances with students,  in this repository I'm going to summarize som
 Each experience is accompanied by a YouTube video (Italian language only).
 
 Currently, the following activities are present:
-1. Open a Serial Communication with the Arduino board using the Serial Monitor integrated in the Arduino IDE and with Python (Python 3). `-->` [link to rev. 2](https://youtu.be/KZg1jX5p-ms)  ([old version](https://youtu.be/KZg1jX5p-ms))
+1. Open a Serial Communication with the Arduino board using the Serial Monitor integrated in the Arduino IDE and with Python (Python 3). `-->` [link to rev. 2](https://youtu.be/ZILKy-Xd-Lc)  ([old version](https://youtu.be/KZg1jX5p-ms))
 2. Acquisition of an electric voltage. This is done using the application of a voltage divider. `-->` [link](https://youtu.be/61yXr3oFXwI)
 3. Measurement of an equivalent resistance. `-->` [link](https://youtu.be/He_-ysi0Rd0)
 4. Thévenin's theorem: computation and experimental validation. `-->` [link](https://youtu.be/x--Q7AAMXXM)
