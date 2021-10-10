@@ -18,7 +18,7 @@ while True:
     # read data, decode and split the string 
     data.append(((arduino.readline()).decode('ascii')).split(";"))
     # convert them into float
-    num_data = [float(k) for k in data[-1]]
+    num_data.append([float(k) for k in data[-1]])
     # print latest data
     print(num_data[-1])
 
