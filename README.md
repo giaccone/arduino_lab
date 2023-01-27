@@ -4,7 +4,7 @@ Some code related to (very) basic electric circuit lab with Arduino board
 ## Introduction
 It's April 2020, the world is fighting against the spread of covid-19. As a consequence all laboratory activities in schools/universities are stopped.
 
-To lower distances with students,  in this repository I'm going to summarize some activities the can be performed at home with a low cost Arduino kit. All experiments are very basilar and related to a specific aspect of basic circuit theory. The main aim is to touch with hands concepts that would remain otherwise too abstract.
+To lower distances with students,  in this repository I'm going to summarize some activities that can be performed at home with a low cost Arduino kit. All experiments are very basilar and related to a specific aspect of basic circuit theory. The main aim is to touch with hands concepts that would remain otherwise too abstract.
 
 ## YouTube videos
 
